@@ -1,4 +1,4 @@
-# Walmart Sales Forecasting Project
+# E-Commerce Sales Forecasting Project
 
 ## Business Problem
 
